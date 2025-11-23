@@ -1,0 +1,128 @@
+{
+  "homepage": {
+    "hero": {
+      "title": "Endonezya'nın Kapıları",
+      "subtitle": "Türk Rehberinizle Keşfet",
+      "description": "Endonezya'da yaşayan Türk rehberiniz olarak, evlilik işlemlerinden seyahat planlamaya kadar tüm süreçlerde yanınızdayız.",
+      "primaryButton": "Hemen İletişime Geç",
+      "secondaryButton": "Hizmetlerimizi Keşfet",
+      "backgroundImage": "/uploads/hero-bg.jpg"
+    },
+    "services": [
+      {
+        "id": "evlilik",
+        "icon": "Heart",
+        "title": "Evlilik İşlemleri",
+        "description": "Endonezya'da evlilik sürecinizi baştan sona profesyonel destek ile tamamlayın.",
+        "link": "/evlilik"
+      },
+      {
+        "id": "seyahat",
+        "icon": "Plane",
+        "title": "Seyahat Rehberliği",
+        "description": "Kişiye özel tur paketleri ve profesyonel rehberlik hizmetleri.",
+        "link": "/seyahat"
+      },
+      {
+        "id": "danismanlik",
+        "icon": "MessageCircle",
+        "title": "Danışmanlık",
+        "description": "Endonezya'da yaşam, iş ve eğitim konularında uzman danışmanlık.",
+        "link": "/iletisim"
+      }
+    ],
+    "cta": {
+      "title": "Endonezya Maceranız İçin Hazır mısınız?",
+      "description": "Size özel planlar oluşturmak ve her adımda yanınızda olmak için buradayız.",
+      "buttonText": "WhatsApp",
+      "buttonLink": "https://wa.me/905550343852"
+    }
+  },
+  "about": {
+    "hero": {
+      "title": "Hakkımızda",
+      "subtitle": "Endonezya'da Güvenilir Türk Rehberiniz",
+      "backgroundImage": "/uploads/about-bg.jpg"
+    },
+    "story": {
+      "title": "Hikayemiz",
+      "content": [
+        "Endonezya Kaşifi olarak, Endonezya'da evlilik işlemleri, seyahat rehberliği ve özel tur paketleri konusunda profesyonel, güvenilir ve kapsamlı hizmet sunuyoruz. Amacımız, bu süreçlerde karşılaşabileceğiniz tüm zorlukları ortadan kaldırmak ve size sorunsuz bir deneyim sağlamak.",
+        "Endonezya'da evlilik işlemleri karmaşık ve zaman alıcı olabilir. Bu nedenle, deneyimli ekibimizle tüm evlilik süreçlerinde size rehberlik ediyoruz. Belge hazırlama, tercüme, noter işlemleri ve resmi kurumlarla iletişim gibi tüm adımlarda yanınızda oluyoruz. Ayrıca, evlilik sonrası oturma izni başvuruları ve diğer yasal süreçlerde de destek sağlıyoruz.",
+        "Ayrıca Endonezya'nın eşsiz kültürünü, doğasını ve saklı güzelliklerini keşfetmeniz için özel tur paketleri ve profesyonel seyahat rehberliği hizmetleri sunuyoruz. Kişiye özel planlamalarla tatilinizi unutulmaz bir deneyime dönüştürüyoruz. Dilerseniz evlendikten sonra tatil ve balayı planınızı da sizin için oluşturabilir, özel bir deneyim yaşamanızı sağlayabiliriz."
+      ]
+    }
+  },
+  "contact": {
+    "hero": {
+      "title": "İletişim",
+      "subtitle": "Size Nasıl Yardımcı Olabiliriz?",
+      "backgroundImage": "/uploads/contact-bg.jpg"
+    },
+    "info": {
+      "phone": "+90 555 034 3852",
+      "email": "info@endonezyakasifi.com",
+      "whatsapp": "+905550343852",
+      "address": "Jakarta, Endonezya"
+    }
+  },
+  "marriage": {
+    "hero": {
+      "title": "Evlilik İşlemleri",
+      "subtitle": "Endonezya'da Evlilik Sürecinizde Profesyonel Destek",
+      "backgroundImage": "/uploads/marriage-bg.jpg"
+    },
+    "services": [
+      {
+        "title": "Belge Hazırlama",
+        "description": "Evlilik için gerekli tüm belgelerin hazırlanması ve kontrolü"
+      },
+      {
+        "title": "Tercüme Hizmetleri",
+        "description": "Resmi belgelerin yetkili tercüme büroları ile tercümesi"
+      },
+      {
+        "title": "Noter İşlemleri",
+        "description": "Belgelerin noter onayı ve apostil işlemleri"
+      },
+      {
+        "title": "Rehberlik",
+        "description": "Tüm süreç boyunca profesyonel rehberlik ve destek"
+      }
+    ]
+  },
+  "travel": {
+    "hero": {
+      "title": "Seyahat Rehberliği",
+      "subtitle": "Endonezya'yı Keşfetmenin En İyi Yolu",
+      "backgroundImage": "/uploads/travel-bg.jpg"
+    },
+    "packages": [
+      {
+        "name": "Bali Turu",
+        "duration": "5 Gün",
+        "description": "Bali'nin en güzel yerlerini keşfedin"
+      },
+      {
+        "name": "Jakarta & Yogyakarta",
+        "duration": "7 Gün",
+        "description": "Kültür ve tarih turu"
+      },
+      {
+        "name": "Özel Tur",
+        "duration": "Özel",
+        "description": "Size özel hazırlanmış tur programı"
+      }
+    ]
+  },
+  "settings": {
+    "siteName": "Endonezya Kaşifi",
+    "siteDescription": "Endonezya'da güvenilir Türk rehberiniz",
+    "logo": "/images/logo.png",
+    "socialMedia": {
+      "whatsapp": "+905550343852",
+      "instagram": "@endonezyakasifi",
+      "facebook": "endonezyakasifi"
+    }
+  }
+}
