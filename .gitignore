@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .DS_Store
 /node_modules/
 
@@ -5,4 +6,6 @@
 /.react-router/
 /build/
 
+=======
+>>>>>>> 28d1f96 (Yerel değişiklikler kaydedildi (pull öncesi))
 .vercel

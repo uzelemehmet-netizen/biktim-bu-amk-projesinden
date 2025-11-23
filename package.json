@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
 	"name": "web",
 	"private": true,
 	"type": "module",
@@ -95,4 +96,10 @@
 	"overrides": {
 		"next-themes": "^0.3.0"
 	}
+=======
+  "devDependencies": {
+    "@types/node": "^24.10.1",
+    "vite": "^7.2.4"
+  }
+>>>>>>> 28d1f96 (Yerel değişiklikler kaydedildi (pull öncesi))
 }
